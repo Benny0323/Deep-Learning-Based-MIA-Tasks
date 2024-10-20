@@ -1,6 +1,6 @@
 # CT-Based-AIGC-LVM-Multimodal
 
-### Awesome research groups at home and abroad:
+### Awesome research groups in CT-based tasks:
 
 1. **[MultiRecon](https://multirecon.github.io)**
 

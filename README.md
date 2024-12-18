@@ -1,4 +1,4 @@
-# CT-Based Tasks Using Deep Learning
+# Deep Learning Based CT Relevant Tasks
 
 ## Awesome research groups in CT-Based tasks:
 A Collection of CT-Based Research Groups

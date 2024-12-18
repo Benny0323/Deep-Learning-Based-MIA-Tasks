@@ -1,4 +1,4 @@
-# CT-Based Tasks Using Deep Learning(Mainly Including CT Construction & Generation)
+# CT-Based Tasks Using Deep Learning
 
 ## Awesome research groups in CT-Based tasks:
 A Collection of CT-Based Research Groups

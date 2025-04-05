@@ -822,6 +822,19 @@ A Collection of CT-Based Research Groups
    <td align="right">nan</td>
    <td align="left">https://ieeexplore.ieee.org/abstract/document/10945485</td>
    </tr>
+   <tr>
+   <td align="right">61</td>
+   <td align="left">European Journal of Radiology 2025</td>
+   <td align="right">0</td>
+   <td align="left">Semi-supervised spatial-frequency transformer for metal artifact reduction in maxillofacial CT and evaluation with intraoral scan</td>
+   <td align="left">Li Y, Ma C, Li Z, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">私有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://www.sciencedirect.com/science/article/pii/S0720048X25001731</td>
+   </tr>
    </tbody>
    </table>
 ```

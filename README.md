@@ -835,6 +835,19 @@ A Collection of CT-Based Research Groups
    <td align="right">nan</td>
    <td align="left">https://www.sciencedirect.com/science/article/pii/S0720048X25001731</td>
    </tr>
+   <tr>
+   <td align="right">62</td>
+   <td align="left">IEEE Transactions on Computational Imaging 2025</td>
+   <td align="right">0</td>
+   <td align="left">HDD-Net: Haar Dual Domain Network for Ring</td>
+   <td align="left">Wu X, Wang J, Zhao Q</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://ieeexplore.ieee.org/abstract/document/10945684</td>
+   </tr>
    </tbody>
    </table>
 ```

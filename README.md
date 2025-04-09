@@ -9,6 +9,7 @@ A Collection of CT-Based Research Groups
 
 1. **[MultiRecon](https://multirecon.github.io)**
 2. **[CT Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**
+3. **[CVPR 2025 Medical Papers](https://github.com/cherishleon/cvpr25_medical_paper)**
 
 ## Extra Resources:
 1. **[CT Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**

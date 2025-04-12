@@ -840,7 +840,7 @@ A Collection of CT-Based Research Groups
    <td align="right">62</td>
    <td align="left">IEEE Transactions on Computational Imaging 2025</td>
    <td align="right">0</td>
-   <td align="left">HDD-Net: Haar Dual Domain Network for Ring</td>
+   <td align="left">HDD-Net: Haar Dual Domain Network for Ring Artifacts Correction</td>
    <td align="left">Wu X, Wang J, Zhao Q</td>
    <td align="right">2025</td>
    <td align="right">0</td>
@@ -848,6 +848,32 @@ A Collection of CT-Based Research Groups
    <td align="left">公有数据集</td>
    <td align="right">nan</td>
    <td align="left">https://ieeexplore.ieee.org/abstract/document/10945684</td>
+   </tr>
+   <tr>
+   <td align="right">63</td>
+   <td align="left">Medical Imaging 2025: Physics of Medical Imaging</td>
+   <td align="right">0</td>
+   <td align="left">Multi-scale information guided dual-domain fusion network for metal artifact reduction in dental CBCT</td>
+   <td align="left">Wu J, Lin Z, Li Y, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">私有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://doi.org/10.1117/12.3046491</td>
+   </tr>
+   <tr>
+   <td align="right">64</td>
+   <td align="left">ISBI 2024</td>
+   <td align="right">0</td>
+   <td align="left">A Feature-Guided Dual-Domain Network for CT Metal Artifact Reduction</td>
+   <td align="left">Wang H, Wang Z, Yang S, et al</td>
+   <td align="right">2024</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://ieeexplore.ieee.org/abstract/document/10635638</td>
    </tr>
    </tbody>
    </table>

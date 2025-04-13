@@ -875,6 +875,19 @@ A Collection of CT-Based Research Groups
    <td align="right">nan</td>
    <td align="left">https://ieeexplore.ieee.org/abstract/document/10635638</td>
    </tr>
+   <tr>
+   <td align="right">65</td>
+   <td align="left">Medical Imaging 2025: Physics of Medical Imaging</td>
+   <td align="right">0</td>
+   <td align="left">A CT Metal Artifact Reduction Method Driven by Implicit Neural Representation and Dual-domain Regularization</td>
+   <td align="left">Liu X, He Y, Xie Y, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://doi.org/10.1117/12.3046430</td>
+   </tr>
    </tbody>
    </table>
 ```

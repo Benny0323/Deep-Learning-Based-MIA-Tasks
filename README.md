@@ -888,6 +888,19 @@ A Collection of CT-Based Research Groups
    <td align="right">nan</td>
    <td align="left">https://doi.org/10.1117/12.3046430</td>
    </tr>
+   <tr>
+   <td align="right">66</td>
+   <td align="left">ICPR 2025</td>
+   <td align="right">0</td>
+   <td align="left">MAR-DTN: Metal Artifact Reduction using Domain Transformation Network for Radiotherapy Planning</td>
+   <td align="left">Serrano-Antón, Belén, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">私有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://link.springer.com/chapter/10.1007/978-3-031-78195-7_10</td>
+   </tr>
    </tbody>
    </table>
 ```

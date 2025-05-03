@@ -901,6 +901,19 @@ A Collection of CT-Based Research Groups
    <td align="right">nan</td>
    <td align="left">https://link.springer.com/chapter/10.1007/978-3-031-78195-7_10</td>
    </tr>
+   <tr>
+   <td align="right">67</td>
+   <td align="left">Medical Imaging 2025: Physics of Medical Imaging</td>
+   <td align="right">0</td>
+   <td align="left">X-ray CT metal artifact reduction using neural attenuation field prior</td>
+   <td align="left">Lee J, Kim S, Ahn J, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17859</td>
+   </tr>
    </tbody>
    </table>
 ```

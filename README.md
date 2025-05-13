@@ -914,6 +914,20 @@ A Collection of CT-Based Research Groups
    <td align="right">nan</td>
    <td align="left">https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17859</td>
    </tr>
+   </tr>
+   <tr>
+   <td align="right">68</td>
+   <td align="left">Computerized Medical Imaging and Graphics 2025</td>
+   <td align="right">0</td>
+   <td align="left">CALIMAR-GAN: An unpaired mask-guided attention network for metal artifact reduction in CT scans</td>
+   <td align="left">Scardigno R M, Brunetti A, Marvulli P M, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://www.sciencedirect.com/science/article/pii/S0895611125000746</td>
+   </tr>
    </tbody>
    </table>
 ```

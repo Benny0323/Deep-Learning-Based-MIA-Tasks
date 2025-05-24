@@ -928,6 +928,19 @@ A Collection of CT-Based Research Groups
    <td align="right">nan</td>
    <td align="left">https://www.sciencedirect.com/science/article/pii/S0895611125000746</td>
    </tr>
+   </tr>
+   <tr>
+   <td align="right">69</td>
+   <td align="left">电子与信息学报 2025</td>
+   <td align="right">0</td>
+   <td align="left">模型与数据双驱动的联合有限角CT重建与金属伪影校正方法</td>
+   <td align="left">石保顺, 程诗展, 姜轲, 傅昭然</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://jeit.ac.cn/cn/article/doi/10.11999/JEIT240703</td>
    </tbody>
    </table>
 ```

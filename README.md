@@ -941,6 +941,32 @@ A Collection of CT-Based Research Groups
    <td align="left">公有数据集</td>
    <td align="right">nan</td>
    <td align="left">https://jeit.ac.cn/cn/article/doi/10.11999/JEIT240703</td>
+   </tr>
+   <tr>
+   <td align="right">70</td>
+   <td align="left">Sensing and Imaging 2025</td>
+   <td align="right">0</td>
+   <td align="left">Multi‑Scale Image Artifacts Removal Network for Reducing Limited‑Angle Artifacts of CL System</td>
+   <td align="left">Feng Y, Liu J, Ji Y J, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有+私有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://link.springer.com/article/10.1007/s11220-025-00584-8</td>
+   </tr>
+   <tr>
+   <td align="right">71</td>
+   <td align="left">Radiation Physics and Chemistry 2025</td>
+   <td align="right">0</td>
+   <td align="left">A contrastive learning network for reducing metal artifacts in post-surgical knee computed tomography</td>
+   <td align="left">Deng J, Zhou L, Peng Y, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">私有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://www.sciencedirect.com/science/article/pii/S0969806X25004633</td>
    </tbody>
    </table>
 ```

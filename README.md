@@ -967,6 +967,19 @@ A Collection of CT-Based Research Groups
    <td align="left">私有数据集</td>
    <td align="right">nan</td>
    <td align="left">https://www.sciencedirect.com/science/article/pii/S0969806X25004633</td>
+   </tr>
+   <tr>
+   <td align="right">72</td>
+   <td align="left">Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization 2025</td>
+   <td align="right">0</td>
+   <td align="left">CobDiffMRI: a cross-conditional diffusion model for removing artefacts in undersampled magnetic resonance imaging</td>
+   <td align="left">Wang J, Dong S</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://www.tandfonline.com/doi/full/10.1080/21681163.2025.2507923</td>
    </tbody>
    </table>
 ```

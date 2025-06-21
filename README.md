@@ -1,4 +1,4 @@
-# Deep Learning Based CT Relevant Tasks
+![image](https://github.com/user-attachments/assets/f09d3765-2694-4b5d-b0ba-32fc7691cc7b)![image](https://github.com/user-attachments/assets/c98a48d3-a538-48f1-8911-0211369cd866)# Deep Learning Based CT Relevant Tasks
 
 ## Awesome research groups in CT-Based tasks:
 A Collection of CT-Based Research Groups
@@ -980,6 +980,19 @@ A Collection of CT-Based Research Groups
    <td align="left">公有数据集</td>
    <td align="right">nan</td>
    <td align="left">https://www.tandfonline.com/doi/full/10.1080/21681163.2025.2507923</td>
+   </tr>
+   <tr>
+   <td align="right">73</td>
+   <td align="left">arxiv 2025</td>
+   <td align="right">0</td>
+   <td align="left">Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction</td>
+   <td align="left">Duba-Sullivan, Haley, et al</td>
+   <td align="right">2025</td>
+   <td align="right">0</td>
+   <td align="left">nan</td>
+   <td align="left">公有数据集</td>
+   <td align="right">nan</td>
+   <td align="left">https://arxiv.org/abs/2506.14719</td>
    </tbody>
    </table>
 ```

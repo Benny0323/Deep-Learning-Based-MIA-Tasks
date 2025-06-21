@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f09d3765-2694-4b5d-b0ba-32fc7691cc7b)![image](https://github.com/user-attachments/assets/c98a48d3-a538-48f1-8911-0211369cd866)# Deep Learning Based CT Relevant Tasks
+# Deep Learning Based CT Relevant Tasks
 
 ## Awesome research groups in CT-Based tasks:
 A Collection of CT-Based Research Groups

@@ -994,6 +994,58 @@ A Collection of CT-Based Research Groups
    <td align="left">公有数据集</td>
    <td align="right">nan</td>
    <td align="left">https://arxiv.org/abs/2506.14719</td>
+   <tr>
+  <td align="right">74</td>
+  <td align="left">한국의학물리학회</td>
+  <td align="right">0</td>
+  <td align="left">Diffusion prior guided neural attenuation field for CT metal artifact</td>
+  <td align="left">Hyun, Subong, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left"></td>
+  <td align="right"></td>
+  <td align="left"><a href="http://hdl.handle.net/10203/330402">http://hdl.handle.net/10203/330402</a></td>
+</tr>
+<tr>
+  <td align="right">75</td>
+  <td align="left">Fully3D 2025</td>
+  <td align="right">0</td>
+  <td align="left">Implicit Neural Representation with Diffusion Priors for Joint Sparse-View Metal artifact</td>
+  <td align="left">Hyun, Subong, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left"></td>
+  <td align="right"></td>
+  <td align="left"><a href="http://hdl.handle.net/10203/330400">http://hdl.handle.net/10203/330400</a></td>
+</tr>
+<tr>
+  <td align="right">76</td>
+  <td align="left">The 10th Japan-Korea Joint Meeting on Medical Physics</td>
+  <td align="right">0</td>
+  <td align="left">Metal artifact reduction with prior image synthesis via latent diffusion model</td>
+  <td align="left">Choi, Da-in, et al</td>
+  <td align="right">2024</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left">公有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://koasas.kaist.ac.kr/handle/10203/327060">https://koasas.kaist.ac.kr/handle/10203/327060</a></td>
+</tr>
+<tr>
+  <td align="right">77</td>
+  <td align="left">Medical Imaging 2025: Physics of Medical Imaging</td>
+  <td align="right">0</td>
+  <td align="left">A Diffusion Model-Based Dual Domain Approach for CT Metal Artifact</td>
+  <td align="left">Hyun, Subong, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left"></td>
+  <td align="right"></td>
+  <td align="left"><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13405/134054E/A-diffusion-model-based-dual-domain-approach-for-CT-metal/10.1117/12.3046879.full">https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13405/134054E/A-diffusion-model-based-dual-domain-approach-for-CT-metal/10.1117/12.3046879.full</a></td>
+</tr>
    </tbody>
    </table>
 ```

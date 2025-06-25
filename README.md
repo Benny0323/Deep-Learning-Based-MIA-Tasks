@@ -13,6 +13,7 @@ A Collection of MIA Research Groups
 4. **Metal Artifact Reduction Researchers:**
    [Subong Hyun](https://koasas.kaist.ac.kr/simple-search?from_item=10203/330400&query=Hyun%2C+SuBong)
    [Sungho Yun](https://scholar.google.com/citations?hl=en&user=57SCuisAAAAJ&view_op=list_works&sortby=pubdate)
+   [Da-in Choi](https://scholar.google.com/citations?user=L18rXIIAAAAJ&hl=en&oi=sra)
 
 ## Extra Resources:
 1. **[Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**

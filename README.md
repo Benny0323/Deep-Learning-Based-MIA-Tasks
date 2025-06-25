@@ -10,7 +10,9 @@ A Collection of MIA Research Groups
 1. **[MultiRecon](https://multirecon.github.io)**
 2. **[Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**
 3. **[CVPR 2025 Medical Papers](https://github.com/cherishleon/cvpr25_medical_paper)**
-4. **[Metal Artifact Reduction Researchers](https://koasas.kaist.ac.kr/simple-search?from_item=10203/330400&query=Hyun%2C+SuBong)**
+4. **Metal Artifact Reduction Researchers:**
+   [Subong Hyun](https://koasas.kaist.ac.kr/simple-search?from_item=10203/330400&query=Hyun%2C+SuBong)
+   [Sungho Yun](https://scholar.google.com/citations?hl=en&user=57SCuisAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Extra Resources:
 1. **[Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**

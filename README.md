@@ -1,14 +1,14 @@
-# Deep Learning Based CT Relevant Tasks
+# Deep Learning Based Medical Image Anyalysis
 
-## Awesome research groups in CT-Based tasks:
-A Collection of CT-Based Research Groups
+## Awesome research groups in MIA tasks:
+A Collection of MIA Research Groups
 
 **Please feel free to star, fork or PR if helpful~**
 
-**收集了国内外做CT相关研究的团队(谷歌学术引用5000+)如下，欢迎star，fork和PR~**
+**收集了国内外做MIA相关研究的团队(谷歌学术引用5000+)如下，欢迎star，fork和PR~**
 
 1. **[MultiRecon](https://multirecon.github.io)**
-2. **[CT Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**
+2. **[Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**
 3. **[CVPR 2025 Medical Papers](https://github.com/cherishleon/cvpr25_medical_paper)**
 4. **[Metal Artifact Reduction Researchers](https://koasas.kaist.ac.kr/simple-search?from_item=10203/330400&query=Hyun%2C+SuBong)**
 

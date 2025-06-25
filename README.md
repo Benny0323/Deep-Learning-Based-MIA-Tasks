@@ -1,4 +1,4 @@
-# Deep Learning Based Medical Image Anyalysis
+# Deep Learning Based Medical Image Analysis
 
 ## Awesome research groups in MIA tasks:
 A Collection of MIA Research Groups
@@ -13,7 +13,7 @@ A Collection of MIA Research Groups
 4. **[Metal Artifact Reduction Researchers](https://koasas.kaist.ac.kr/simple-search?from_item=10203/330400&query=Hyun%2C+SuBong)**
 
 ## Extra Resources:
-1. **[CT Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**
+1. **[Artifact Reduction](https://candlehouse.github.io/ArtifactReduction/)**
    <table>
    <thead>
    <tr>

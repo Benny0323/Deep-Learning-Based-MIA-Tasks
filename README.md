@@ -1049,6 +1049,19 @@ A Collection of MIA Research Groups
   <td align="right"></td>
   <td align="left"><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13405/134054E/A-diffusion-model-based-dual-domain-approach-for-CT-metal/10.1117/12.3046879.full">https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13405/134054E/A-diffusion-model-based-dual-domain-approach-for-CT-metal/10.1117/12.3046879.full</a></td>
 </tr>
+<tr>
+  <td align="right">78</td>
+  <td align="left">ICIAP 2025</td>
+  <td align="right">0</td>
+  <td align="left">ReMAR-DS: Recalibrated Feature Learning for Metal Artifact Reduction and CT Domain Transformation</td>
+  <td align="left">Rehman, Mubashara, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left"></td>
+  <td align="right"></td>
+  <td align="left"><a href="https://arxiv.org/abs/2506.19531">https://arxiv.org/abs/2506.19531</a></td>
+</tr>
    </tbody>
    </table>
 ```

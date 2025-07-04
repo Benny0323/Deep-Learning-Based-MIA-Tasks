@@ -1,4 +1,4 @@
-Deep Learning Based Medical Image Analysis
+# Deep Learning Based Medical Image Analysis
 
 ## Awesome research groups in MIA tasks:
 A Collection of MIA Research Groups

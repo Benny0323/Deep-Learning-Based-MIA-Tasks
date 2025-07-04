@@ -1,4 +1,4 @@
-# Deep Learning Based Medical Image Analysis
+![image](https://github.com/user-attachments/assets/6a135b77-0eeb-4163-a335-f94123337508)![image](https://github.com/user-attachments/assets/765eb5f6-488d-422a-adfa-f78dd113b5d5)# Deep Learning Based Medical Image Analysis
 
 ## Awesome research groups in MIA tasks:
 A Collection of MIA Research Groups
@@ -1061,6 +1061,32 @@ A Collection of MIA Research Groups
   <td align="left"></td>
   <td align="right"></td>
   <td align="left"><a href="https://arxiv.org/abs/2506.19531">https://arxiv.org/abs/2506.19531</a></td>
+</tr>
+<tr>
+  <td align="right">79</td>
+  <td align="left">CT理论与应用研究 2025</td>
+  <td align="right">0</td>
+  <td align="left">基于先验图像对颅内金属伪影的校正研究</td>
+  <td align="left">陈宗桂, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left"></td>
+  <td align="right"></td>
+  <td align="left"><a href="https://www.cttacn.org.cn/cn/article/id/621f41ce-705e-4399-aad8-7bd9304ad9f8</a></td>
+</tr>
+<tr>
+  <td align="right">80</td>
+  <td align="left">Optics Express 2025</td>
+  <td align="right">0</td>
+  <td align="left">Data-driven and model-guided iterative reconstruction framework for simultaneous sparse-view and ring artifact reduction in synchrotron X-ray microtomography</td>
+  <td align="left">Li, Fangzhi, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left"></td>
+  <td align="right"></td>
+  <td align="left"><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3145&id=567194</a></td>
 </tr>
    </tbody>
    </table>

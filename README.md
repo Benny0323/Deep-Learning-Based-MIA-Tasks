@@ -1113,7 +1113,7 @@ A Collection of MIA Research Groups
   <td align="left">公有+数据集</td>
   <td align="right"></td>
   <td align="left"><a href="https://ieeexplore.ieee.org/document/9825711">https://ieeexplore.ieee.org/document/9825711</a></td>
-<td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub">[https://ieeexplore.ieee.org/document/9825711](https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub)</a></td>
+  <td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub">(https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub)</a></td>
 </tr>
    </tbody>
    </table>

@@ -1088,6 +1088,19 @@ A Collection of MIA Research Groups
   <td align="right"></td>
   <td align="left"><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3145&id=567194">https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-3145&id=567194</a></td>
 </tr>
+<tr>
+  <td align="right">81</td>
+  <td align="left">European Journal of Radiology 2023</td>
+  <td align="right">0</td>
+  <td align="left">Is AI the way forward for reducing metal artifacts in CT? Development of a generic deep learning-based method and initial evaluation in patients with sacroiliac joint implants</td>
+  <td align="left">Selles, Mark, et al</td>
+  <td align="right">2023</td>
+  <td align="right">10</td>
+  <td align="left"></td>
+  <td align="left">公有+私有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0720048X23001584">https://www.sciencedirect.com/science/article/pii/S0720048X23001584</a></td>
+</tr>
    </tbody>
    </table>
 ```

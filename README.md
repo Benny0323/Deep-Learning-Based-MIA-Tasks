@@ -1101,6 +1101,20 @@ A Collection of MIA Research Groups
   <td align="right"></td>
   <td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0720048X23001584">https://www.sciencedirect.com/science/article/pii/S0720048X23001584</a></td>
 </tr>
+<tr>
+  <td align="right">82</td>
+  <td align="left">TMI 2022</td>
+  <td align="right">0</td>
+  <td align="left">DuDoUFNet: Dual-Domain Under-to-Fully-Complete Progressive Restoration Network for Simultaneous Metal Artifact Reduction and Low-Dose CT Reconstruction</td>
+  <td align="left">Zhou, Bo, et al</td>
+  <td align="right">2022</td>
+  <td align="right">46</td>
+  <td align="left"></td>
+  <td align="left">公有+数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://ieeexplore.ieee.org/document/9825711">https://ieeexplore.ieee.org/document/9825711</a></td>
+<td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub">[https://ieeexplore.ieee.org/document/9825711](https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub)</a></td>
+</tr>
    </tbody>
    </table>
 ```

@@ -1115,6 +1115,19 @@ A Collection of MIA Research Groups
   <td align="left"><a href="https://ieeexplore.ieee.org/document/9825711">https://ieeexplore.ieee.org/document/9825711</a></td>
   <td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub">(https://www.sciencedirect.com/science/article/pii/S1361841521003340?via%3Dihub)</a></td>
 </tr>
+<tr>
+  <td align="right">83</td>
+  <td align="left">IEEE Transactions on Radiation and Plasma Medical Sciences 2025</td>
+  <td align="right">0</td>
+  <td align="left">Dual-Domain Denoising Diffusion Probabilistic Model for Metal Artifact Reduction</td>
+  <td align="left">Xia W, Niu C, Karageorgos G M, et al</td>
+  <td align="right">2025</td>
+  <td align="right">40</td>
+  <td align="left"></td>
+  <td align="left">公有+私有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://ieeexplore.ieee.org/abstract/document/11059998">https://ieeexplore.ieee.org/abstract/document/11059998</a></td>
+</tr>
    </tbody>
    </table>
 ```

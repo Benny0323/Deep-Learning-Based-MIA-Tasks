@@ -1128,6 +1128,19 @@ A Collection of MIA Research Groups
   <td align="right"></td>
   <td align="left"><a href="https://ieeexplore.ieee.org/abstract/document/11059998">https://ieeexplore.ieee.org/abstract/document/11059998</a></td>
 </tr>
+<tr>
+  <td align="right">84</td>
+  <td align="left">TMI 2021</td>
+  <td align="right">0</td>
+  <td align="left">Deep Sinogram Completion With Image Prior for Metal Artifact Reduction in CT Images</td>
+  <td align="left">Yu L, Zhang Z, Li X, et al.</td>
+  <td align="right">2021</td>
+  <td align="right">149</td>
+  <td align="left"></td>
+  <td align="left">公有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://ieeexplore.ieee.org/document/9201079">https://ieeexplore.ieee.org/document/9201079</a></td>
+</tr>
    </tbody>
    </table>
 ```

@@ -1150,6 +1150,19 @@ A Collection of MIA Research Groups
 <tr><td align="right">91</td><td align="left">TMI 2020</td><td align="right">0</td><td align="left">A Cross-Domain Metal Trace Restoring Network for Reducing X-Ray CT Metal Artifacts</td><td align="left">Peng, Chengtao, et al.</td><td align="right">2020</td><td align="right">35</td><td align="left"></td><td align="left"></td><td align="right"></td><td align="left"><a href="https://ieeexplore.ieee.org/abstract/document/9127526">https://ieeexplore.ieee.org/abstract/document/9127526</a></td></tr>
 <tr><td align="right">92</td><td align="left">TMI 2023</td><td align="right">0</td><td align="left">Deep-Learning-Based Metal Artefact Reduction With Unsupervised Domain Adaptation Regularization for Practical CT Images</td><td align="left">Du, Muge, et al.</td><td align="right">2023</td><td align="right">24</td><td align="left"></td><td align="left"></td><td align="right"></td><td align="left"><a href="https://ieeexplore.ieee.org/abstract/document/10042444/">https://ieeexplore.ieee.org/abstract/document/10042444/</a></td></tr>
 <tr><td align="right">93</td><td align="left">MICCAI 2021 / PMB 2021</td><td align="right">1</td><td align="left">DAN-Net: Dual-Domain Adaptive-Scaling Non-local Network for CT Metal Artifact Reduction</td><td align="left">Wang, Tao, et al.</td><td align="right">2021</td><td align="right">64</td><td align="left"><a href="https://github.com/zjk1988/DAN-Net">https://github.com/zjk1988/DAN-Net</a></td><td align="left"></td><td align="right"></td><td align="left"><a href="https://iopscience.iop.org/article/10.1088/1361-6560/ac1156/meta">https://iopscience.iop.org/article/10.1088/1361-6560/ac1156/meta</a><br><a href="https://link.springer.com/chapter/10.1007/978-3-030-87231-1_24">https://link.springer.com/chapter/10.1007/978-3-030-87231-1_24</a></td></tr>
+<tr>
+  <td align="right">94</td>
+  <td align="left">Philips CT Clinical Science 2012</td>
+  <td align="right">0</td>
+  <td align="left">Metal artifact reduction for orthopedic implants (O-MAR)</td>
+  <td align="left">Healthcare, Philips</td>
+  <td align="right">2012</td>
+  <td align="right">32</td>
+  <td align="left"></td>
+  <td align="left">私有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://www.philips.co.uk/c-dam/b2bhc/master/sites/hotspot/omar-metal-artifact-reduction/O-MAR%20whitepaper_CT.pdf">https://www.philips.co.uk/c-dam/b2bhc/master/sites/hotspot/omar-metal-artifact-reduction/O-MAR%20whitepaper_CT.pdf</a></td>
+</tr>
    </tbody>
    </table>
 ```

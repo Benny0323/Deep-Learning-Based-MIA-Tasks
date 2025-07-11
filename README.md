@@ -1162,6 +1162,18 @@ A Collection of MIA Research Groups
   <td align="left">私有数据集</td>
   <td align="right"></td>
   <td align="left"><a href="https://www.philips.co.uk/c-dam/b2bhc/master/sites/hotspot/omar-metal-artifact-reduction/O-MAR%20whitepaper_CT.pdf">https://www.philips.co.uk/c-dam/b2bhc/master/sites/hotspot/omar-metal-artifact-reduction/O-MAR%20whitepaper_CT.pdf</a></td>
+</tr><tr>
+  <td align="right">95</td>
+  <td align="left">PHYSICS IN MEDICINE AND BIOLOGY 2009</td>
+  <td align="right">0</td>
+  <td align="left">A novel forward projection-based metal artifact reduction method for flat-detector computed tomography</td>
+  <td align="left">Prell, Daniel, et al</td>
+  <td align="right">2009</td>
+  <td align="right">165</td>
+  <td align="left"></td>
+  <td align="left">私有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://iopscience.iop.org/article/10.1088/0031-9155/54/21/009/meta">https://iopscience.iop.org/article/10.1088/0031-9155/54/21/009/meta</a></td>
 </tr>
    </tbody>
    </table>

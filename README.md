@@ -1202,6 +1202,19 @@ A Collection of MIA Research Groups
   <td align="right"></td>
   <td align="left"><a href="https://ieeexplore.ieee.org/document/11072804">https://ieeexplore.ieee.org/document/11072804</a></td>
 </tr>
+<tr>
+  <td align="right">98</td>
+  <td align="left">ESWA 2025</td>
+  <td align="right">0</td>
+  <td align="left">Diagnostic performance of artefact-reduced cone-beam CT images using a generative adversarial neural network</td>
+  <td align="left">Candemil, Amanda Pelegrin, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"></td>
+  <td align="left">私有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0957417425025242">https://www.sciencedirect.com/science/article/pii/S0957417425025242</a></td>
+</tr>
    </tbody>
    </table>
 ```

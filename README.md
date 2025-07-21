@@ -1242,7 +1242,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://www.ejradiology.com/article/S0720-048X(23)00590-9/fulltext)
+- **论文下载地址**：[PDF](https://www.ejradiology.com/article/S0720-048X(23)00590-9/fulltext)
 
 ### 2. Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction
 - **期刊/会议**：NeurIPS 2023
@@ -1251,10 +1251,10 @@ A Collection of MIA Research Groups
 - **作者**：Wu, Qing, et al
 - **发表时间**：2023
 - **谷歌引用率**：6
-- **代码链接**：[GitHub](https://github.com/iwuqing/Polyner)
+- **代码链接**：[Code](https://github.com/iwuqing/Polyner)
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbf02b21d77409a2db30e56866a8ab3a-Abstract-Conference.html)
+- **论文下载地址**：[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbf02b21d77409a2db30e56866a8ab3a-Abstract-Conference.html)
 
 ### 3. DCDiff: Dual-Domain Conditional Diffusion for CT Metal Artifact Reduction
 - **期刊/会议**：MICCAI 2024
@@ -1266,7 +1266,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://papers.miccai.org/miccai-2024/paper/1608_paper.pdf)
+- **论文下载地址**：[PDF](https://papers.miccai.org/miccai-2024/paper/1608_paper.pdf)
 
 ### 4. Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains
 - **期刊/会议**：TMI 2024
@@ -1278,7 +1278,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[GitHub](https://github.com/DeepXuan/DuDoDp-MAR)
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://ieeexplore.ieee.org/document/10385050)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/10385050)
 
 ### 5. MARformer: An Efficient Metal Artifact Reduction Transformer for Dental CBCT Images
 - **期刊/会议**：arxiv
@@ -1290,7 +1290,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：未说明
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://arxiv.org/abs/2311.09590)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2311.09590)
 
 ### 6. Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning - A Review
 - **期刊/会议**：IEEE Access
@@ -1302,7 +1302,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[链接](https://arxiv.org/pdf/2403.18565)
+- **论文下载地址**：[PDF](https://arxiv.org/pdf/2403.18565)
 
 ### 7. Dual Domain Diffusion Guidance for 3D CBCT Metal Artifact Reduction
 - **期刊/会议**：WACV 2024
@@ -1314,7 +1314,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://openaccess.thecvf.com/content/WACV2024/html/Choi_Dual_Domain_Diffusion_Guidance_for_3D_CBCT_Metal_Artifact_Reduction_WACV_2024_paper.html)
+- **论文下载地址**：[PDF](https://openaccess.thecvf.com/content/WACV2024/html/Choi_Dual_Domain_Diffusion_Guidance_for_3D_CBCT_Metal_Artifact_Reduction_WACV_2024_paper.html)
 
 ### 8. DiffMAR: A Generalized Diffusion Model for Metal Artifact Reduction in CT Images
 - **期刊/会议**：JBHI 2024
@@ -1326,7 +1326,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://ieeexplore.ieee.org/abstract/document/10629037)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10629037)
 
 ### 9. Metal Artifacts Reducing Method Based on Diffusion Model Using Intraoral Optical Scanning Data for Dental Cone-beam CT
 - **期刊/会议**：TMI 2024
@@ -1338,7 +1338,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://ieeexplore.ieee.org/document/10630537)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/10630537)
 
 ### 10. A Denoising Diffusion Probabilistic Model for Metal Artifact Reduction in CT
 - **期刊/会议**：TMI 2024
@@ -1350,7 +1350,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://ieeexplore.ieee.org/document/10586949)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/10586949)
 
 ### 11. Unsupervised metal artifacts reduction network for CT images based on efficient transformer
 - **期刊/会议**：BSPC 2024
@@ -1362,7 +1362,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[链接](https://www.sciencedirect.com/science/article/pii/S1746809423011862)
+- **论文下载地址**：[PDF](https://www.sciencedirect.com/science/article/pii/S1746809423011862)
 
 ### 12. Quad-Net: Quad-Domain Network for CT Metal Artifact Reduction
 - **期刊/会议**：TMI 2024

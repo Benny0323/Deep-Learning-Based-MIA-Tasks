@@ -18,16 +18,7 @@ A Collection of MIA Research Groups
 ## MAR Realted Papers:
 
   
-   <td align="left">https://ieeexplore.ieee.org/abstract/document/8815915/</td>td align="left">Evaluation of a prototype metal artifact reduction algorithm for cone beam CT in patients undergoing radioembolization</td>
-   <td align="left">Can, Elif, et al</td>
-   <td align="right">2024</td>
-   <td align="right">0</td>
-   <td align="left">nan</td>
-   <td align="left">nan</td>
-   <td align="right">nan</td>
-   <td align="left">https://www.nature.com/articles/s41598-024-66978-y</td>
-   </tr>
-   <tr>
+  
    <td align="right">26</td>
    <td align="left">MICCAI 2023</td>
    <td align="right">0</td>

@@ -1366,5 +1366,267 @@ A Collection of MIA Research Groups
 
 ### 12. Quad-Net: Quad-Domain Network for CT Metal Artifact Reduction
 - **期刊/会议**：TMI 2024
-- **是否有
+- **是否有代码**：是
+- **论文题目**：Quad-Net: Quad-Domain Network for CT Metal Artifact Reduction
+- **作者**：Zilong Li, et al
+- **发表时间**：2024
+- **谷歌引用率**：7
+- **代码链接**：[Code](https://github.com/longzilicart/Quad-Net)
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10385220)
+
+### 13. ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction
+- **期刊/会议**：TMI 2019
+- **是否有代码**：是
+- **论文题目**：ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction
+- **作者**：S. Kevin Zhou, et al
+- **发表时间**：2019
+- **谷歌引用率**：199
+- **代码链接**：[Code](https://github.com/liaohaofu/adn)
+- **所用数据集**：公有+私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/8788607)
+
+### 14. Simulation-driven training of vision transformers enables metal artifact reduction of highly truncated CBCT scans
+- **期刊/会议**：MP 2024
+- **是否有代码**：否
+- **论文题目**：Simulation-driven training of vision transformers enables metal artifact reduction of highly truncated CBCT scans
+- **作者**：Fuxin Fan, et al
+- **发表时间**：2024
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.16919)
+
+### 15. PND-Net: Physics-Inspired Non-Local Dual-Domain Network for Metal Artifact Reduction
+- **期刊/会议**：TMI 2024
+- **是否有代码**：否
+- **论文题目**：PND-Net: Physics-Inspired Non-Local Dual-Domain Network for Metal Artifact Reduction
+- **作者**：Jinqiu Xia, et al
+- **发表时间**：2024
+- **谷歌引用率**：1
+- **代码链接**：无
+- **所用数据集**：公有+私有数据集
+- **数据集下载地址**：无
+- **备注**：[链接](https://ieeexplore.ieee.org/abstract/document/10404006)
+
+### 16. Fast Enhanced CT Metal Artifact Reduction using Data Domain Deep Learning
+- **期刊/会议**：TCI 2019
+- **是否有代码**：是
+- **论文题目**：Fast Enhanced CT Metal Artifact Reduction using Data Domain Deep Learning
+- **作者**：Ghani, Muhammad Usman, and W. Clem Karl
+- **发表时间**：2019
+- **谷歌引用率**：138
+- **代码链接**：[Code](https://github.com/mughanibu/DeepMAR)
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/8815915)
+
+### 17. MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images
+- **期刊/会议**：MICCAI 2023
+- **是否有代码**：是
+- **论文题目**：MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images
+- **作者**：Wang, Hong, et al
+- **发表时间**：2023
+- **谷歌引用率**：6
+- **代码链接**：[Code](https://github.com/hongwang01/mepnet)
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[PDF](https://arxiv.org/pdf/2306.14274v1)
+
+### 18. Adaptive Convolutional Dictionary Network for CT Metal Artifact Reduction
+- **期刊/会议**：IJCAI 2022
+- **是否有代码**：是
+- **论文题目**：Adaptive Convolutional Dictionary Network for CT Metal Artifact Reduction
+- **作者**：Wang, Hong, et al
+- **发表时间**：2022
+- **谷歌引用率**：26
+- **代码链接**：[GitHub](https://github.com/hongwang01/ACDNet)
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[链接](https://arxiv.org/pdf/2205.07471v2)
+
+### 19. InDuDoNet+: A Deep Unfolding Dual Domain Network for Metal Artifact Reduction in CT Images
+- **期刊/会议**：MIA 2023
+- **是否有代码**：是
+- **论文题目**：InDuDoNet+: A Deep Unfolding Dual Domain Network for Metal Artifact Reduction in CT Images
+- **作者**：Wang, Hong, et al
+- **发表时间**：2023
+- **谷歌引用率**：31
+- **代码链接**：[Code](https://github.com/hongwang01/indudonet_plus)
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[PDF](https://www.sciencedirect.com/science/article/pii/S1361841522003577)
+
+#### 20. InDuDoNet: An Interpretable Dual Domain Network for CT Metal Artifact Reduction
+- **期刊/会议**：MICCAI 2021
+- **是否有代码**：是
+- **论文题目**：InDuDoNet: An Interpretable Dual Domain Network for CT Metal Artifact Reduction
+- **作者**：Wang, Hong, et al
+- **发表时间**：2021
+- **谷歌引用率**：54
+- **代码链接**：[Code](https://github.com/hongwang01/indudonet)
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[PDF](https://arxiv.org/pdf/2109.05298v1)
+
+#### 21. Orientation-Shared Convolution Representation for CT Metal Artifact Learning
+- **期刊/会议**：MICCAI 2022/TMI 2023
+- **是否有代码**：是
+- **论文题目**：Orientation-Shared Convolution Representation for CT Metal Artifact Learning
+- **作者**：Wang, Hong, et al
+- **发表时间**：2022
+- **谷歌引用率**：12
+- **代码链接**：[GitHub](https://github.com/hongwang01/oscnet)
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[链接](https://arxiv.org/pdf/2212.13166v1) [链接](https://ieeexplore.ieee.org/document/10237226)
+
+#### 22. Metal Artifact Reduction in 2D CT Images with Self-supervised Cross-domain Learning
+- **期刊/会议**：Physics in Medicine & Biology 2021
+- **是否有代码**：否
+- **论文题目**：Metal Artifact Reduction in 2D CT Images with Self-supervised Cross-domain Learning
+- **作者**：Lequan Yu, et al
+- **发表时间**：2021
+- **谷歌引用率**：32
+- **代码链接**：无
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[PDF](https://arxiv.org/abs/2109.13483)
+
+### 23. DPD-Net: A Dual-domain Progressive Diffusion Network for Joint Limited-Angle and Metal Artifact Removal
+- **期刊/会议**：SPIE 2024
+- **是否有代码**：否
+- **论文题目**：DPD-Net: a dual-domain progressive diffusion network for joint limited-angle and metal artifact removal
+- **作者**：Shi Yijie, et al
+- **发表时间**：2024
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13242/132420M/DPD-Net--a-dual-domain-progressive-diffusion-network-for/10.1117/12.3034419.short)
+
+### 24. Advancements in supervised deep learning for metal artifact reduction in computed tomography: A systematic review
+- **期刊/会议**：European Journal of Radiology 2024
+- **是否有代码**：否
+- **论文题目**：Advancements in supervised deep learning for metal artifact reduction in computed tomography: A systematic review
+- **作者**：Kleber, Cecile EJ, et al
+- **发表时间**：2024
+- **谷歌引用率**：1
+- **代码链接**：无
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[PDF](https://www.ejradiology.com/article/S0720-048X(24)00448-0/fulltext)
+
+### 25. Evaluation of a prototype metal artifact reduction algorithm for cone beam CT in patients undergoing radioembolization
+- **期刊/会议**：Scientific Reports 2024
+- **是否有代码**：否
+- **论文题目**：Evaluation of a prototype metal artifact reduction algorithm for cone beam CT in patients undergoing radioembolization
+- **作者**：Can, Elif, et al
+- **发表时间**：2024
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://www.nature.com/articles/s41598-024-66978-y)
+
+### 26. Multi-perspective Adaptive Iteration Network for Metal Artifact Reduction
+- **期刊/会议**：MICCAI 2023
+- **是否有代码**：否
+- **论文题目**：Multi-perspective Adaptive Iteration Network for Metal Artifact Reduction
+- **作者**：Haiyang Mao, et al
+- **发表时间**：2023
+- **谷歌引用率**：2
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_8)
+
+### 27. Unsupervised Density Neural Representation for CT Metal Artifact Reduction
+- **期刊/会议**：arxiv 2024
+- **是否有代码**：否
+- **论文题目**：Unsupervised Density Neural Representation for CT Metal Artifact Reduction
+- **作者**：Wu, Qing, et al
+- **发表时间**：2024
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有+私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://arxiv.org/abs/2405.07047)
+
+### 28. Potential of Metal Artifact Reduction (MAR) and Deep Learning-based Reconstruction (DLR) algorithms integration in CT Metal Artifact Correction: A review
+- **期刊/会议**：Radiation Physics and Chemistry 2024
+- **是否有代码**：否
+- **论文题目**：Potential of Metal Artifact Reduction (MAR) and Deep Learning-based Reconstruction (DLR) algorithms integration in CT Metal Artifact Correction: A review
+- **作者**：Njiti, M. M., et al
+- **发表时间**：2024
+- **谷歌引用率**：6
+- **代码链接**：无
+- **所用数据集**：无
+- **数据集下载地址**：无
+- **备注**：[PDF](https://www.sciencedirect.com/science/article/pii/S0969806X24000331)
+
+### 29. Wavelet domain-based deep residual learning for metal artifact reduction in computed tomography
+- **期刊/会议**：Medical Imaging 2024: Physics of Medical Imaging
+- **是否有代码**：否
+- **论文题目**：Wavelet domain-based deep residual learning for metal artifact reduction in computed tomography
+- **作者**：Lee, Seungwan, et al.
+- **发表时间**：2024
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/129251Z/Wavelet-domain-based-deep-residual-learning-for-metal-artifact-reduction/10.1117/12.3005636.short)
+
+### 30. Dual-domain fusion network for metal artifact reduction in CT
+- **期刊/会议**：Medical Imaging 2024: Physics of Medical Imaging
+- **是否有代码**：否
+- **论文题目**：Dual-domain fusion network for metal artifact reduction in CT
+- **作者**：Wu, Jiayi, et al
+- **发表时间**：2024
+- **谷歌引用率**：2
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/1292523/Dual-domain-fusion-network-for-metal-artifact-reduction-in-CT/10.1117/12.3006099.short)
+
+### 31. Adaptive and Iterative Learning With Multi-Perspective Regularizations for Metal Artifact Reduction
+- **期刊/会议**：TMI2024
+- **是否有代码**：否
+- **论文题目**：Adaptive and Iterative Learning With Multi-Perspective Regularizations for Metal Artifact Reduction
+- **作者**：Zhang, Jianjia, et al
+- **发表时间**：2024
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10510476)
+
+### 32. Coupling Model- and Data-Driven Networks for CT Metal Artifact Reduction
+- **期刊/会议**：TCI2024
+- **是否有代码**：否
+- **论文题目**：Coupling Model- and Data-Driven Networks for CT Metal Artifact Reduction
+- **作者**：Shi, Baoshun, et al
+- **发表时间**：2024
+- **谷歌引用率**：2
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10453966)
+
+### 33. b-MAR: bidirectional artifact representations learning framework for metal artifact reduction in dental CBCT
+- **期刊/会议**：Physics in Medicine and Biology 2024
+- **是否有代码**：否
+- **论文题目**：b-MAR: bidirectional artifact representations learning framework for metal artifact reduction in dental CBCT
+- **作者**：Song, Yuyan, et al
+- **发表时间**：2024
+- **谷歌引用率**：2
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **备注**：[PDF](https://iopscience.iop.org/article/10.1088
+
+
 

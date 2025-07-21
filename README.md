@@ -1215,6 +1215,19 @@ A Collection of MIA Research Groups
   <td align="right"></td>
   <td align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0957417425025242">https://www.sciencedirect.com/science/article/pii/S0957417425025242</a></td>
 </tr>
+<tr>
+  <td align="right">99</td>
+  <td align="left">Medical Physics 2025</td>
+  <td align="right">1</td>
+  <td align="left">ICD lead and primary metal artifact detection and inpainting in cardiac CT images</td>
+  <td align="left">McKeown, Trevor, et al</td>
+  <td align="right">2025</td>
+  <td align="right">0</td>
+  <td align="left"https://github.com/deshanyang></td>
+  <td align="left">私有数据集</td>
+  <td align="right"></td>
+  <td align="left"><a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17947">https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17947</a></td>
+</tr>
    </tbody>
    </table>
 ```

@@ -1204,6 +1204,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **备注**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17947)
 
+### 100. WOADNet: A Wavelet-Inspired Orientational Adaptive Dictionary Network for CT Metal Artifact Reduction
+- **期刊/会议**：IEEE J-BHI 2025
+- **是否有代码**：否
+- **论文题目**：WOADNet: A Wavelet-Inspired Orientational Adaptive Dictionary Network for CT Metal Artifact Reduction
+- **作者**：Tong Jin, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **备注**：无
+
 
 
 

@@ -158,7 +158,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[Code](https://github.com/longzilicart/Quad-Net)
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10385220)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10385220)
 
 ### 13. ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction
 - **期刊/会议**：TMI 2019
@@ -170,7 +170,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[Code](https://github.com/liaohaofu/adn)
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/8788607)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/8788607)
 
 ### 14. Simulation-driven training of vision transformers enables metal artifact reduction of highly truncated CBCT scans
 - **期刊/会议**：MP 2024
@@ -182,7 +182,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.16919)
+- **论文下载地址**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.16919)
 
 ### 15. PND-Net: Physics-Inspired Non-Local Dual-Domain Network for Metal Artifact Reduction
 - **期刊/会议**：TMI 2024
@@ -194,7 +194,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **备注**：[链接](https://ieeexplore.ieee.org/abstract/document/10404006)
+- **论文下载地址**：[链接](https://ieeexplore.ieee.org/abstract/document/10404006)
 
 ### 16. Fast Enhanced CT Metal Artifact Reduction using Data Domain Deep Learning
 - **期刊/会议**：TCI 2019
@@ -206,7 +206,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[Code](https://github.com/mughanibu/DeepMAR)
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/8815915)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/8815915)
 
 ### 17. MEPNet: A Model-Driven Equivariant Proximal Network for Joint Sparse-View Reconstruction and Metal Artifact Reduction in CT Images
 - **期刊/会议**：MICCAI 2023
@@ -218,7 +218,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[Code](https://github.com/hongwang01/mepnet)
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/pdf/2306.14274v1)
+- **论文下载地址**：[PDF](https://arxiv.org/pdf/2306.14274v1)
 
 ### 18. Adaptive Convolutional Dictionary Network for CT Metal Artifact Reduction
 - **期刊/会议**：IJCAI 2022
@@ -230,7 +230,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[GitHub](https://github.com/hongwang01/ACDNet)
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[链接](https://arxiv.org/pdf/2205.07471v2)
+- **论文下载地址**：[链接](https://arxiv.org/pdf/2205.07471v2)
 
 ### 19. InDuDoNet+: A Deep Unfolding Dual Domain Network for Metal Artifact Reduction in CT Images
 - **期刊/会议**：MIA 2023
@@ -242,7 +242,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[Code](https://github.com/hongwang01/indudonet_plus)
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.sciencedirect.com/science/article/pii/S1361841522003577)
+- **论文下载地址**：[PDF](https://www.sciencedirect.com/science/article/pii/S1361841522003577)
 
 #### 20. InDuDoNet: An Interpretable Dual Domain Network for CT Metal Artifact Reduction
 - **期刊/会议**：MICCAI 2021
@@ -254,7 +254,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[Code](https://github.com/hongwang01/indudonet)
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/pdf/2109.05298v1)
+- **论文下载地址**：[PDF](https://arxiv.org/pdf/2109.05298v1)
 
 #### 21. Orientation-Shared Convolution Representation for CT Metal Artifact Learning
 - **期刊/会议**：MICCAI 2022/TMI 2023
@@ -266,7 +266,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[GitHub](https://github.com/hongwang01/oscnet)
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[链接](https://arxiv.org/pdf/2212.13166v1) [链接](https://ieeexplore.ieee.org/document/10237226)
+- **论文下载地址**：[链接](https://arxiv.org/pdf/2212.13166v1) [链接](https://ieeexplore.ieee.org/document/10237226)
 
 #### 22. Metal Artifact Reduction in 2D CT Images with Self-supervised Cross-domain Learning
 - **期刊/会议**：Physics in Medicine & Biology 2021
@@ -278,7 +278,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/abs/2109.13483)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2109.13483)
 
 ### 23. DPD-Net: A Dual-domain Progressive Diffusion Network for Joint Limited-Angle and Metal Artifact Removal
 - **期刊/会议**：SPIE 2024
@@ -290,7 +290,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13242/132420M/DPD-Net--a-dual-domain-progressive-diffusion-network-for/10.1117/12.3034419.short)
+- **论文下载地址**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13242/132420M/DPD-Net--a-dual-domain-progressive-diffusion-network-for/10.1117/12.3034419.short)
 
 ### 24. Advancements in supervised deep learning for metal artifact reduction in computed tomography: A systematic review
 - **期刊/会议**：European Journal of Radiology 2024
@@ -302,7 +302,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.ejradiology.com/article/S0720-048X(24)00448-0/fulltext)
+- **论文下载地址**：[PDF](https://www.ejradiology.com/article/S0720-048X(24)00448-0/fulltext)
 
 ### 25. Evaluation of a prototype metal artifact reduction algorithm for cone beam CT in patients undergoing radioembolization
 - **期刊/会议**：Scientific Reports 2024
@@ -314,7 +314,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.nature.com/articles/s41598-024-66978-y)
+- **论文下载地址**：[PDF](https://www.nature.com/articles/s41598-024-66978-y)
 
 ### 26. Multi-perspective Adaptive Iteration Network for Metal Artifact Reduction
 - **期刊/会议**：MICCAI 2023
@@ -326,7 +326,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_8)
+- **论文下载地址**：[PDF](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_8)
 
 ### 27. Unsupervised Density Neural Representation for CT Metal Artifact Reduction
 - **期刊/会议**：arxiv 2024
@@ -338,7 +338,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/abs/2405.07047)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2405.07047)
 
 ### 28. Potential of Metal Artifact Reduction (MAR) and Deep Learning-based Reconstruction (DLR) algorithms integration in CT Metal Artifact Correction: A review
 - **期刊/会议**：Radiation Physics and Chemistry 2024
@@ -350,7 +350,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.sciencedirect.com/science/article/pii/S0969806X24000331)
+- **论文下载地址**：[PDF](https://www.sciencedirect.com/science/article/pii/S0969806X24000331)
 
 ### 29. Wavelet domain-based deep residual learning for metal artifact reduction in computed tomography
 - **期刊/会议**：Medical Imaging 2024: Physics of Medical Imaging
@@ -362,7 +362,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/129251Z/Wavelet-domain-based-deep-residual-learning-for-metal-artifact-reduction/10.1117/12.3005636.short)
+- **论文下载地址**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/129251Z/Wavelet-domain-based-deep-residual-learning-for-metal-artifact-reduction/10.1117/12.3005636.short)
 
 ### 30. Dual-domain fusion network for metal artifact reduction in CT
 - **期刊/会议**：Medical Imaging 2024: Physics of Medical Imaging
@@ -374,7 +374,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/1292523/Dual-domain-fusion-network-for-metal-artifact-reduction-in-CT/10.1117/12.3006099.short)
+- **论文下载地址**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/1292523/Dual-domain-fusion-network-for-metal-artifact-reduction-in-CT/10.1117/12.3006099.short)
 
 ### 31. Adaptive and Iterative Learning With Multi-Perspective Regularizations for Metal Artifact Reduction
 - **期刊/会议**：TMI2024
@@ -386,7 +386,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10510476)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10510476)
 
 ### 32. Coupling Model- and Data-Driven Networks for CT Metal Artifact Reduction
 - **期刊/会议**：TCI2024
@@ -398,7 +398,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10453966)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10453966)
 
 ### 33. b-MAR: bidirectional artifact representations learning framework for metal artifact reduction in dental CBCT
 - **期刊/会议**：Physics in Medicine and Biology 2024
@@ -410,7 +410,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://iopscience.iop.org/article/10.1088
+- **论文下载地址**：[PDF](https://iopscience.iop.org/article/10.1088
 
 ### 34. Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction
 - **期刊/会议**：TMI 2025
@@ -422,7 +422,7 @@ A Collection of MIA Research Groups
 - **代码链接**：[GitHub](https://github.com/Masaaki-75/rise-mar)
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/abs/2501.15610)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2501.15610)
 
 ### 35. Better Cone-Beam CT Artifact Correction via Spatial and Channel Reconstruction Convolution Based on Unsupervised Adversarial Diffusion Models
 - **期刊/会议**：Bioengineering 2025
@@ -434,7 +434,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.mdpi.com/2306-5354/12/2/132)
+- **论文下载地址**：[PDF](https://www.mdpi.com/2306-5354/12/2/132)
 
 ### 36. Syn2Real: synthesis of CT image ring artifacts for deep learning-based correction
 - **期刊/会议**：Physics in Medicine & Biology 2025
@@ -446,7 +446,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://iopscience.iop.org/article/10.1088/1361-6560/adad2c/meta)
+- **论文下载地址**：[PDF](https://iopscience.iop.org/article/10.1088/1361-6560/adad2c/meta)
 
 ### 37. Implicit neural representation-based method for metal-induced beam hardening artifact reduction in X-ray CT imaging
 - **期刊/会议**：Medical Physics 2025
@@ -458,7 +458,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17649)
+- **论文下载地址**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17649)
 
 ### 38. Unsupervised Multi-Parameter Inverse Solving for Reducing Ring Artifacts in 3D X-Ray CBCT
 - **期刊/会议**：arxiv 2024
@@ -470,7 +470,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/abs/2412.05853)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2412.05853)
 
 ### 39. Assessing the use of Diffusion models for motion artifact correction in brain MRI
 - **期刊/会议**：arxiv 2025
@@ -482,7 +482,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/abs/2502.01418)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2502.01418)
 
 ### 40. Adaptive Weighting based Metal Artifact Reduction in CT Images
 - **期刊/会议**：TMI 2025
@@ -494,7 +494,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10887049)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10887049)
 
 ### 41. Effectiveness of single-energy metal artifact reduction algorithm in CT: application to contrast-enhanced CT with EVAR and coil embolization
 - **期刊/会议**：The International Journal of Cardiovascular Imaging 2025
@@ -506,7 +506,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://link.springer.com/article/10.1007/s10554-024-03318-1)
+- **论文下载地址**：[PDF](https://link.springer.com/article/10.1007/s10554-024-03318-1)
 
 ### 42. A Dual-domain Regularization Method for Ring Artifact Removal of X-ray CT
 - **期刊/会议**：arxiv 2024
@@ -518,7 +518,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/abs/2403.08247)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2403.08247)
 
 ### 43. Generative AI for Artifact Correction and Privacy-Secure Medical Imaging
 - **期刊/会议**：Book2024
@@ -530,7 +530,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：无
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.diva-portal.org/smash/get/diva2:1914607/FULLTEXT01.pdf)
+- **论文下载地址**：[PDF](https://www.diva-portal.org/smash/get/diva2:1914607/FULLTEXT01.pdf)
 
 ### 44. Unsupervised learning-based deep sparsifying transform network for joint CT metal artifact reduction and super-resolution reconstruction
 - **期刊/会议**：Digital Signal Processing 2025
@@ -542,7 +542,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.sciencedirect.com/science/article/pii/S1051200425001149?via%3Dihub)
+- **论文下载地址**：[PDF](https://www.sciencedirect.com/science/article/pii/S1051200425001149?via%3Dihub)
 
 ### 45. Unsupervised learning-based deep sparsifying transform network for joint CT metal artifact reduction and super-resolution reconstruction
 - **期刊/会议**：Physics in Medicine and Biology 2025
@@ -554,7 +554,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://iopscience.iop.org/article/10.1088/1361-6560/adbaae/pdf)
+- **论文下载地址**：[PDF](https://iopscience.iop.org/article/10.1088/1361-6560/adbaae/pdf)
 
 ### 46. CBCT projection domain metal segmentation for metal artifact reduction using hessian-inspired dual-encoding network with guidance from segment anything model
 - **期刊/会议**：Physics in Medicine and Biology 2025
@@ -566,7 +566,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17716)
+- **论文下载地址**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17716)
 
 ### 47. Dual-energy CT metal artifact reduction by combined material decomposition and projection domain threshold segmentation
 - **期刊/会议**：ICASSP 2025
@@ -578,7 +578,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/document/10890701)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/10890701)
 
 ### 48. MUPO-Net: A Multilevel Dual-domain Progressive Enhancement Network with Embedded Attention for CT Metal Artifact Reduction
 - **期刊/会议**：ICASSP 2025
@@ -590,7 +590,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有+私有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/document/10888655)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/10888655)
 
 ### 49. Neural attenuation fields for metal artifact reduction in dental CT
 - **期刊/会议**：Medical Imaging 2024: Physics of Medical Imaging
@@ -602,7 +602,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/1292514/Neural-attenuation-fields-for-metal-artifact-reduction-in-dental-CT/10.1117/12.2689652.full)
+- **论文下载地址**：[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12925/1292514/Neural-attenuation-fields-for-metal-artifact-reduction-in-dental-CT/10.1117/12.2689652.full)
 
 ### 50. Unlocking the Potential of Early Epochs: Uncertainty-aware CT Metal Artifact Reduction
 - **期刊/会议**：arxiv 2024
@@ -614,7 +614,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://arxiv.org/abs/2406.12186)
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2406.12186)
 
 ### 51. Artifact Region-Aware Transformer: Global Context Helps CT Metal Artifact Reduction
 - **期刊/会议**：IEEE Signal Processing Letters 2024
@@ -626,7 +626,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://ieeexplore.ieee.org/abstract/document/10508041/)
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10508041/)
 
 ### 52. Mud-Net: multi-domain deep unrolling network for simultaneous sparse-view and metal artifact reduction in computed tomography
 - **期刊/会议**：Machine Learning: Science and Technology 2024
@@ -638,7 +638,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **备注**：[PDF](https://iopscience.iop.org/article/10.1088/2632-2153/ad1b8e/meta)
+- **论文下载地址**：[PDF](https://iopscience.iop.org/article/10.1088/2632-2153/ad1b8e/meta)
 
 ### 53. IRDNet: Iterative Relation-Based Dual-Domain Network via Metal Artifact Feature Guidance for CT Metal Artifact Reduction
 - **期刊/会议**：IEEE Transactions on Radiation and Plasma Medical Sciences 2024

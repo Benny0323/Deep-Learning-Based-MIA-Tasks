@@ -1227,6 +1227,18 @@ A Collection of MIA Research Groups
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
 - **论文下载地址**：[HTML](www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240462)
+- 
+### 102. Visual and text prompts guided interpretable network for universal low-dose CT MAR
+- **期刊/会议**：PR 2025
+- **是否有代码**：否
+- **论文题目**：Visual and text prompts guided interpretable network for universal low-dose CT MAR
+- **作者**：Shi, Baoshun, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[HTML](https://www.sciencedirect.com/science/article/pii/S0031320325007125)
 
 
 

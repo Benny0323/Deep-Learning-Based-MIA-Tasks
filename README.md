@@ -1226,7 +1226,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：无
+- **论文下载地址**：[HTML](www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240462)
 
 
 

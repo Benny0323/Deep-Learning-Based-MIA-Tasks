@@ -13,7 +13,8 @@ A Collection of MIA Research Groups
 4. **Metal Artifact Reduction(MAR) Researchers:**
    [Subong Hyun](https://koasas.kaist.ac.kr/simple-search?from_item=10203/330400&query=Hyun%2C+SuBong);
    [Sungho Yun](https://scholar.google.com/citations?hl=en&user=57SCuisAAAAJ&view_op=list_works&sortby=pubdate);
-   [Da-in Choi](https://scholar.google.com/citations?user=L18rXIIAAAAJ&hl=en&oi=sra).
+   [Da-in Choi](https://scholar.google.com/citations?user=L18rXIIAAAAJ&hl=en&oi=sra);
+   [Hong Wang](https://scholar.google.com/citations?user=I5RH0CwAAAAJ&hl=en).
 
 ## MAR Realted Papers:
 ### 1. Advances in metal artifact reduction in CT images: A review of traditional and novel metal artifact reduction techniques

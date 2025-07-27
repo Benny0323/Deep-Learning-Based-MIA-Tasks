@@ -1208,13 +1208,13 @@ A Collection of MIA Research Groups
 - **期刊/会议**：IEEE J-BHI 2025
 - **是否有代码**：否
 - **论文题目**：WOADNet: A Wavelet-Inspired Orientational Adaptive Dictionary Network for CT Metal Artifact Reduction
-- **作者**：Tong Jin, et al
+- **作者**：Jin, Tong, et al
 - **发表时间**：2025
 - **谷歌引用率**：0
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：无
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/11091346)
 
 ### 101. 基于伪影提示的稀疏角度 CT 金属伪影校正方法
 - **期刊/会议**：自动化学报 2025

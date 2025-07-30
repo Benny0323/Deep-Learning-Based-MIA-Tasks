@@ -1253,6 +1253,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://www.cnki.com.cn/Article/CJFDTotal-YXWZ202504006.htm)
 
+### 104.Self-supervised CT Metal Artifact Reduction Method via MLP-informed Latent Diffusion
+- **期刊/会议**：
+- **是否有代码**：否
+- **论文题目**：Self-supervised CT Metal Artifact Reduction Method via MLP-informed Latent Diffusion
+- **作者**：Yun, Sungho, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5352123)
+
 
 
 

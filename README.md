@@ -1,4 +1,4 @@
-# Deep Learning Based Medical Image Analysis
+<img width="229" height="107" alt="image" src="https://github.com/user-attachments/assets/eb3eb977-1573-466a-a2a6-fd42c9c9a1c6" /># Deep Learning Based Medical Image Analysis
 
 ## Awesome research groups in MIA tasks:
 A Collection of MIA Research Groups
@@ -1254,7 +1254,7 @@ A Collection of MIA Research Groups
 - **论文下载地址**：[PDF](https://www.cnki.com.cn/Article/CJFDTotal-YXWZ202504006.htm)
 
 ### 104.Self-supervised CT Metal Artifact Reduction Method via MLP-informed Latent Diffusion
-- **期刊/会议**：
+- **期刊/会议**：SSRN 2025
 - **是否有代码**：否
 - **论文题目**：Self-supervised CT Metal Artifact Reduction Method via MLP-informed Latent Diffusion
 - **作者**：Yun, Sungho, et al
@@ -1265,6 +1265,17 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5352123)
 
+### 105.Frequency split metal artifact reduction (FSMAR) in computed tomography
+- **期刊/会议**：Medical physics 2012
+- **是否有代码**：否
+- **论文题目**：Frequency split metal artifact reduction (FSMAR) in computed tomography
+- **作者**：Meyer, Esther, et al
+- **发表时间**：2012
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.3691902)
 
 
 

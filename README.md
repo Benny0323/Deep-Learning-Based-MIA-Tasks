@@ -1277,6 +1277,19 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1118/1.3691902)
 
+### 106.Conditional Denoising Diffusion Probabilistic Models for Metal Artifact Reduction in Computed Tomography
+- **期刊/会议**：UNIVERSITY OF TWENTE STUDENT THESES 2025
+- **是否有代码**：否
+- **论文题目**：Conditional Denoising Diffusion Probabilistic Models for Metal Artifact Reduction in Computed Tomography
+- **作者**：Quattrocchi, Jorn L, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://essay.utwente.nl/107022/1/Quattrocchi_MA_EEMCS.pdf)
+
+
 
 
 

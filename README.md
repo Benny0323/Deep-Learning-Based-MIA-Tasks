@@ -1,4 +1,4 @@
-<img width="372" height="107" alt="image" src="https://github.com/user-attachments/assets/bc2bd659-d939-4cc0-9d86-a96c34779f89" /># Deep Learning Based Medical Image Analysis
+# Deep Learning Based Medical Image Analysis
 
 ## Awesome research groups in MIA tasks:
 A Collection of MIA Research Groups

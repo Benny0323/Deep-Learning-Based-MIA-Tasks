@@ -1,4 +1,4 @@
-# Deep Learning Based Medical Image Analysis
+<img width="372" height="107" alt="image" src="https://github.com/user-attachments/assets/bc2bd659-d939-4cc0-9d86-a96c34779f89" /># Deep Learning Based Medical Image Analysis
 
 ## Awesome research groups in MIA tasks:
 A Collection of MIA Research Groups
@@ -487,12 +487,12 @@ A Collection of MIA Research Groups
 
 ### 40. Adaptive Weighting based Metal Artifact Reduction in CT Images
 - **期刊/会议**：TMI 2025
-- **是否有代码**：否
+- **是否有代码**：有
 - **论文题目**：Adaptive Weighting based Metal Artifact Reduction in CT Images
 - **作者**：Wang, Hong, et al
 - **发表时间**：2025
 - **谷歌引用率**：1
-- **代码链接**：无
+- **代码链接**：https://github.com/hongwang01/AdaW
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10887049)

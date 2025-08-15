@@ -1287,7 +1287,7 @@ A Collection of MIA Research Groups
 - **代码链接**：无
 - **所用数据集**：公有数据集
 - **数据集下载地址**：无
-- **论文下载地址**：[PDF](https://essay.utwente.nl/107022/1/Quattrocchi_MA_EEMCS.pdf)
+- **论文下载地址**：无
 
 
 

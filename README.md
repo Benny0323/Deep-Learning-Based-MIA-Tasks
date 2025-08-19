@@ -1291,6 +1291,19 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：无
 
+### 107.FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction
+- **期刊/会议**：MICCAI 2025
+- **是否有代码**：有
+- **论文题目**：FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction
+- **作者**：Tasharofi, Farid, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：[Code](https://github.com/Farid-Tasharofi/FIND-Net)
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2508.10617)
+
+
 
 
 

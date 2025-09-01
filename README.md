@@ -1303,6 +1303,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://arxiv.org/abs/2508.10617)
 
+### 108.FIND-Net – Fourier-Integrated Network with Dictionary Kernels for Metal Artifact Reduction
+- **期刊/会议**：Physics in Medicine & Biology 2023
+- **是否有代码**：无
+- **论文题目**：PDS-MAR: a fine-grained projection-domain segmentation-based metal artifact reduction method for intraoperative CBCTimages with guidewires
+- **作者**：Lyu, Tianling, et al
+- **发表时间**：2023
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://iopscience.iop.org/article/10.1088/1361-6560/ad00fc)
+
 
 
 

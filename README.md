@@ -1,4 +1,4 @@
-# Deep Learning Based Medical Image Analysis
+<img width="372" height="107" alt="image" src="https://github.com/user-attachments/assets/d758f204-8af4-46b1-ac53-63a20509bfec" /># Deep Learning Based Medical Image Analysis
 
 ## Awesome research groups in MIA tasks:
 A Collection of MIA Research Groups
@@ -1178,7 +1178,7 @@ A Collection of MIA Research Groups
 - **作者**：Zhang, Zhouzhuo, et al
 - **发表时间**：2025
 - **谷歌引用率**：0
-- **代码链接**：无
+- **代码链接**：[Code](https://github.com/zzz11223345/coupled-diffusion-for-MAR)
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
 - **备注**：[PDF](https://ieeexplore.ieee.org/document/11072804)

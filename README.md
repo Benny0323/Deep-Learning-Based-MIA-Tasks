@@ -1315,6 +1315,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://iopscience.iop.org/article/10.1088/1361-6560/ad00fc)
 
+### 109.Bi-Constraints Diffusion: A Conditional Diffusion Model with Degradation Guidance for Metal Artifact Reduction
+- **期刊/会议**：TMI 2025
+- **是否有代码**：无
+- **论文题目**：Bi-Constraints Diffusion: A Conditional Diffusion Model with Degradation Guidance for Metal Artifact Reduction
+- **作者**：Luo, Mengting, et al
+- **发表时间**：2025
+- **谷歌引用率**：4
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10638000)**
+
 
 
 

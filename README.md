@@ -16,7 +16,7 @@ A Collection of MIA Research Groups
    [Da-in Choi](https://scholar.google.com/citations?user=L18rXIIAAAAJ&hl=en&oi=sra);
    [Hong Wang](https://scholar.google.com/citations?user=I5RH0CwAAAAJ&hl=en).
 
-5. **[我的论文阅读笔记](https://docs.google.com/presentation/d/12GNUjwtXI3XF-LLXFE-ItwrFe1myzYby/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true)**
+5. **[我的论文阅读笔记](https://docs.google.com/presentation/d/1kMke9RbsZvp8l24zdGQtZNz3az5fFk2b/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true)**
 
 ## MAR Realted Papers:
 ### 1. Advances in metal artifact reduction in CT images: A review of traditional and novel metal artifact reduction techniques

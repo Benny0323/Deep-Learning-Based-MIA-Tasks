@@ -1327,6 +1327,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/10638000)
 
+### 110.Dual-Domain CLIP-Assisted Residual Optimization Perception Model for Metal Artifact Reduction
+- **期刊/会议**：arxiv 2024
+- **是否有代码**：无
+- **论文题目**：Dual-Domain CLIP-Assisted Residual Optimization Perception Model for Metal Artifact Reduction
+- **作者**：Zhang, Xinrui, et al
+- **发表时间**：2024
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://arxiv.org/abs/2408.14342)
+
 
 
 

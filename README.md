@@ -1346,7 +1346,7 @@ A Collection of MIA Research Groups
 - **作者**：Schaub, Susanne, et al
 - **发表时间**：2025
 - **谷歌引用率**：0
-- **代码链接**：[Code]https://github.com/SusanneSchaub/TPDM_Implant_Inpainting
+- **代码链接**：[Code](https://github.com/SusanneSchaub/TPDM_Implant_Inpainting)
 - **所用数据集**：私有数据集
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://link.springer.com/chapter/10.1007/978-3-032-05472-2_24)

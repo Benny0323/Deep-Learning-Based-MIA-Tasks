@@ -1363,6 +1363,17 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://iopscience.iop.org/article/10.1088/1361-6560/ae0efc)
 
+### 113.SMART: Self-supervised Learning for Metal Artifact Reduction in Computed Tomography Using Range Null Space Decomposition
+- **期刊/会议**：TMI 2025
+- **是否有代码**：否
+- **论文题目**：SMART: Self-supervised Learning for Metal Artifact Reduction in Computed Tomography Using Range Null Space Decomposition
+- **作者**：Wang, Tao, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有+私有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/11185185)
 
 
 

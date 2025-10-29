@@ -1387,6 +1387,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/11199981)
 
+### 115.Metal artifact reduction with prior image synthesis via latent diffusion model
+- **期刊/会议**：Journal of Applied Clinical Medical Physics 2025
+- **是否有代码**：否
+- **论文题目**：Metal artifact reduction with prior image synthesis via latent diffusion model
+- **作者**：Choi, Da-in, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://doi.org/10.1002/acm2.70317)
+
 
 
 

@@ -1399,6 +1399,30 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://doi.org/10.1002/acm2.70317)
 
+### 116.CALIMAR-GAN: An unpaired mask-guided attention network for metal artifact reduction in CT scans
+- **期刊/会议**：CMIG 2025
+- **是否有代码**：有
+- **论文题目**：CALIMAR-GAN: An unpaired mask-guided attention network for metal artifact reduction in CT scans
+- **作者**：Scardigno, Roberto Maria, et al
+- **发表时间**：2025
+- **谷歌引用率**：2
+- **代码链接**：[Code](https://github.com/roberto722/calimar-gan)
+- **所用数据集**：公有数据集
+- **数据集下载地址**：[Data](http://spineweb.digitalimaginggroup.ca)
+- **论文下载地址**：[PDF](https://www.sciencedirect.com/science/article/pii/S0895611125000746)
+
+### 117.Residual Metal Artifact Reduction in CT Images: An Unsupervised Residual and Contrastive Learning Approach for Preserving Metal Structures
+- **期刊/会议**：Medical Physics 2025
+- **是否有代码**：否
+- **论文题目**：Residual Metal Artifact Reduction in CT Images: An Unsupervised Residual and Contrastive Learning Approach for Preserving Metal Structures
+- **作者**：Kim, YongSoo, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://doi.org/10.1002/mp.70078)
+
 
 
 

@@ -1423,6 +1423,30 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://doi.org/10.1002/mp.70078)
 
+### 118.Structure-Preserving Two-Stage Diffusion Model for CBCT Metal Artifact Reduction
+- **期刊/会议**：TMI 2025
+- **是否有代码**：否
+- **论文题目**：Structure-Preserving Two-Stage Diffusion Model for CBCT Metal Artifact Reduction
+- **作者**：Wang, Xingyue, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/11225900)
+
+### 119.UPGRADE-Net: Unsupervised Sinogram-domain Data-Consistent Network for Metal Artifact Reduction
+- **期刊/会议**：TMI 2025
+- **是否有代码**：否
+- **论文题目**：UPGRADE-Net: Unsupervised Sinogram-domain Data-Consistent Network for Metal Artifact Reduction
+- **作者**：Wu, Zhan, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/11236461)
+
 
 
 

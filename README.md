@@ -14,9 +14,11 @@ A Collection of MIA Research Groups
    [Subong Hyun](https://koasas.kaist.ac.kr/simple-search?from_item=10203/330400&query=Hyun%2C+SuBong);
    [Sungho Yun](https://scholar.google.com/citations?hl=en&user=57SCuisAAAAJ&view_op=list_works&sortby=pubdate);
    [Da-in Choi](https://scholar.google.com/citations?user=L18rXIIAAAAJ&hl=en&oi=sra);
-   [Hong Wang](https://scholar.google.com/citations?user=I5RH0CwAAAAJ&hl=en).
+   [Hong Wang](https://scholar.google.com/citations?user=I5RH0CwAAAAJ&hl=en);
+   [Hengyong Yu](https://www.uml.edu/engineering/electrical-computer/faculty/yu-hengyong.aspx);
+   [Yang Chen](https://chenyang10.github.io/chengyang/)
 
-5. **[我的论文阅读笔记](https://docs.google.com/presentation/d/1kMke9RbsZvp8l24zdGQtZNz3az5fFk2b/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true)**
+6. **[我的论文阅读笔记](https://docs.google.com/presentation/d/1kMke9RbsZvp8l24zdGQtZNz3az5fFk2b/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true)**
 
 ## MAR Realted Papers:
 ### 1. Advances in metal artifact reduction in CT images: A review of traditional and novel metal artifact reduction techniques

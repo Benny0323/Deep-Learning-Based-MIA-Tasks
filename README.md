@@ -1447,6 +1447,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/11236461)
 
+### 120.UPMCL-Net: Unsupervised Projection-domain Multiview Constraint Learning for CBCT Metal Artifact Reduction
+- **期刊/会议**：TMI 2025
+- **是否有代码**：否
+- **论文题目**：UPMCL-Net: Unsupervised Projection-domain Multiview Constraint Learning for CBCT Metal Artifact Reduction
+- **作者**：Wu, Zhan, et al
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：私有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/document/11271327)
+
 
 
 

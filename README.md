@@ -1477,7 +1477,7 @@ A Collection of MIA Research Groups
 - **期刊/会议**：IEEE Transactions on Radiation and Plasma Medical Science, 2025
 - **是否有代码**：否
 - **论文题目**：Tri-Domain Filtering Transformer for CT Metal Artifact Reduction
-- **作者**：Liu, Pengju, et al.
+- **作者**：Liu, Pengju, et al
 - **发表时间**：2025
 - **谷歌引用率**：0
 - **代码链接**：无

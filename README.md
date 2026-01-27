@@ -1473,6 +1473,18 @@ A Collection of MIA Research Groups
 - **数据集下载地址**：无
 - **论文下载地址**：[PDF](https://onlinelibrary.wiley.com/doi/10.1002/qub2.70031)
 
+### 122.Tri-Domain Filtering Transformer for CT Metal Artifact Reduction
+- **期刊/会议**：IEEE Transactions on Radiation and Plasma Medical Science, 2025
+- **是否有代码**：否
+- **论文题目**：Tri-Domain Filtering Transformer for CT Metal Artifact Reduction
+- **作者**：Liu, Pengju, et al.
+- **发表时间**：2025
+- **谷歌引用率**：0
+- **代码链接**：无
+- **所用数据集**：公有数据集
+- **数据集下载地址**：无
+- **论文下载地址**：[PDF](https://ieeexplore.ieee.org/abstract/document/11299824)
+
 
 
 
